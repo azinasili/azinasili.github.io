@@ -559,6 +559,10 @@ h6 {
   }
 }
 
+.links {
+  margin-left: -.5em;
+}
+
 .link-contact {
   color: rgba(93, 64, 55, 0.87);
   display: inline-block;
@@ -574,10 +578,6 @@ h6 {
 
 .link-contact:not(:last-child) {
   margin-bottom: .5em;
-}
-
-.link-contact:first-child {
-  margin-left: -.5em;
 }
 
 .link-gmail:hover,
